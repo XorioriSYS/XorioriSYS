@@ -1,6 +1,6 @@
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ Hey, I'm Xori!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:68351F,100:B66B35&height=180&section=header&text=knock%20knock...&fontSize=38&fontColor=E8D5C1&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:68351F,100:B66B35&height=180&section=header&text=knock%20knock...&fontSize=38&fontColor=E8D5C1&animation=fadeIn&fontAlignY=38](https://i.pinimg.com/1200x/69/38/4d/69384d683fe2fcefdd212bd0b129434f.jpg" width="100%"/>
 
 <p align="center">
   <i>✧ aguah. ✧</i>
