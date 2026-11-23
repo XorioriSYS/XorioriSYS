@@ -24,11 +24,6 @@ Hello! i'm james but most people call me Xori! i'm 24, i'm from the UK, and i'm 
 I am a digital artist, MMD animator, Gamer, and general enjoyer of all things internet, i love retro tech, doodling, and wasting hours at a time chatting away on ponytown (Don't judge).
 
 
-
-I'm interested in a little bit of everything, from software development and Linux to digital art, music production and character creation.
-
-I like making things that are personal, unusual, and have a little bit of personality.
-
 **IMPORTANT, PLS READ BEFORE INTERACTING:**
 I struggle a lot with communication and social ques so if i'm being annoying or i'm pushing a boundary, please god call me on my bullshit, i promise you i'm just a fucking idiot- that in mind, i swear a LOT, i also happen to smoke both nic and 🍃 so if any of that makes you uncomfortable maybe dni :) 
 
