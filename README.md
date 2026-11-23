@@ -46,7 +46,7 @@ I like making things that are personal, unusual, and have a little bit of person
 </p>
 
 <p align="center">
-  <i>creepypasta enthusiast • internet nostalgia • alternative music • weird little projects</i>
+  <i> current hyperfixations: CRP • old/retro tech and web • linux</i>
 </p>
 
 ---
