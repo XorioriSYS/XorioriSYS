@@ -4,19 +4,15 @@
 </p>
 
 <p align="center">
-  <i>✧ aguah. ✧</i>
+  <i>✧ aguah ✧</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ticci_Toby_enjoyer-B66B35?style=flat-square&labelColor=24201E"/>
-  <img src="https://img.shields.io/badge/Linux_gremlin-68351F?style=flat-square&labelColor=24201E"/>
-  <img src="https://img.shields.io/badge/CRP_brainrot-9B795D?style=flat-square&labelColor=24201E"/>
-</p>
+
 
 <!-- BLINKIES: Replace these URLs with your own GIF links -->
 <p align="center">
-  <img src="YOUR_BLINKIE_1_URL_HERE" height="20" alt="Blinkie 1"/>
-  <img src="YOUR_BLINKIE_2_URL_HERE" height="20" alt="Blinkie 2"/>
+  <img src="https://i.ibb.co/kqbBy6L/d5k0svm-ac5c1813-ffb0-4f74-a610-b26d821e94c9.gif" width="150" height="20" height="20" alt="Blinkie 1"/>
+  <img src="https://i.ibb.co/fvWvpKx/d7sx8mv-aeaf2a12-dd2b-4760-8e23-7bc8239a261e.gif" width="150" height="20" height="20" alt="Blinkie 2"/>
 </p>
 
 ---
