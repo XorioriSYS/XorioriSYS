@@ -30,16 +30,6 @@ I like making things that are personal, unusual, and have a little bit of person
 - ⛏️ i have a never ending two week minecraft phase send help.
 - 💗 i'm poly and i love my partners very very much <3
 
-### 🖥️ What I'm working with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,vscode,linux,git,github,vscode" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&title_color=D98BB9&icon_color=C49BD8&text_color=777777&bg_color=FFF5FA&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=D98BB9&text_color=777777&bg_color=FFF5FA&hide_border=true" height="160"/>
-</p>
-
 ---
 
 <p align="center">
