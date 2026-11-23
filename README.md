@@ -19,7 +19,11 @@
 
 ### ♡ about me
 
-Hiii! I'm a creative person who enjoys making things on the internet, experimenting with code, and getting ridiculously invested in random projects.
+Hello! i'm james but most people call me Xori! i'm 24, i'm from the UK, and i'm a transgender man currently undergoing my medical transition, i'm also a diagnosed D.I.D system :)
+
+I am a digital artist, MMD animator, Gamer, and general enjoyer of all things internet, i love retro tech, doodling, and wasting hours at a time chatting away on ponytown (Don't judge).
+
+
 
 I'm interested in a little bit of everything, from software development and Linux to digital art, music production and character creation.
 
