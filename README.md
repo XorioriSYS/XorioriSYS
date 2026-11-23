@@ -28,10 +28,10 @@ I am a digital artist, MMD animator, Gamer, and general enjoyer of all things in
 I struggle a lot with communication and social ques so if i'm being annoying or i'm pushing a boundary, please god call me on my bullshit, i promise you i'm just a fucking idiot- that in mind, i swear a LOT, i also happen to smoke both nic and 🍃 so if any of that makes you uncomfortable maybe dni :) 
 
 PONYTOWN TAGS I USE AND WHAT THEY MEAN FOR ME:
-IWC - upset or overwhelmed, i need time to myself or time alone with a close friend/need to be quiet for a bit
-DNI - not going to interact if ur not on my friends list
-W2I - the best way to talk to me, public chat is too busy for me too make out a lot of the time and i get overwhelmed
-C+H - you can cuddle/hide behind me, i may not always interact, i'm also usually hiding behind others hehe
+<p>IWC - upset or overwhelmed, i need time to myself or time alone with a close friend/need to be quiet for a bit</p>
+<p>DNI - not going to interact if ur not on my friends list</p>
+<p>W2I - the best way to talk to me, public chat is too busy for me too make out a lot of the time and i get overwhelmed </p>
+<p>C+H - you can cuddle/hide behind me, i may not always interact, i'm also usually hiding behind others hehe</p>
 
 
 
