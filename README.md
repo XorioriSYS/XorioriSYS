@@ -25,7 +25,7 @@ I am a digital artist, MMD animator, Gamer, and general enjoyer of all things in
 
 
 **IMPORTANT, PLS READ BEFORE INTERACTING:**
-I struggle a lot with communication and social ques so if i'm being annoying or i'm pushing a boundary, please god call me on my bullshit, i promise you i'm just a fucking idiot- that in mind, i swear a LOT, i also happen to smoke both nic and 🍃 so if any of that makes you uncomfortable maybe dni :) 
+<p> I struggle a lot with communication and social ques so if i'm being annoying or i'm pushing a boundary, please god call me on my bullshit, i promise you i'm just a fucking idiot- that in mind, i swear a LOT, i also happen to smoke both nic and 🍃 so if any of that makes you uncomfortable maybe dni :) </p>
 
 PONYTOWN TAGS I USE AND WHAT THEY MEAN FOR ME:
 <p>IWC - upset or overwhelmed, i need time to myself or time alone with a close friend/need to be quiet for a bit</p>
@@ -36,7 +36,7 @@ PONYTOWN TAGS I USE AND WHAT THEY MEAN FOR ME:
 
 
 DO NOT INTERACT WITH ME IF UR ANY OF THE FOLLOWING: 
-Minor, racist, sexist etc, endo, MAP, zoo, radqueer, proship
+<p>Minor, racist, sexist etc, endo, MAP, zoo, radqueer, proship</p>
 
 
 ---
