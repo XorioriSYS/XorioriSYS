@@ -1,6 +1,7 @@
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ Hey, I'm Xori!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:68351F,100:B66B35&height=180&section=header&text=knock%20knock...&fontSize=38&fontColor=E8D5C1&animation=fadeIn&fontAlignY=38](https://i.pinimg.com/1200x/69/38/4d/69384d683fe2fcefdd212bd0b129434f.jpg" width="100%"/>
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/69/38/4d/69384d683fe2fcefdd212bd0b129434f.jpg" width="100%" alt="Header banner"/>
+</p>
 
 <p align="center">
   <i>✧ aguah. ✧</i>
@@ -12,9 +13,10 @@
   <img src="https://img.shields.io/badge/CRP_brainrot-9B795D?style=flat-square&labelColor=24201E"/>
 </p>
 
+<!-- BLINKIES: Replace these URLs with your own GIF links -->
 <p align="center">
-  <img src="https://i.ibb.co/fvWvpKx/d7sx8mv-aeaf2a12-dd2b-4760-8e23-7bc8239a261e.gif" width="150" height="20"/>
-  <img src="https://i.ibb.co/kqbBy6L/d5k0svm-ac5c1813-ffb0-4f74-a610-b26d821e94c9.gif" width="150" height="20"/>
+  <img src="YOUR_BLINKIE_1_URL_HERE" height="20" alt="Blinkie 1"/>
+  <img src="YOUR_BLINKIE_2_URL_HERE" height="20" alt="Blinkie 2"/>
 </p>
 
 ---
@@ -55,7 +57,9 @@ I like making things that are personal, unusual, and have a little bit of person
   <i>"I like making stuff sometimes!!."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B66B35,50:68351F,100:171717&height=110&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/69/38/4d/69384d683fe2fcefdd212bd0b129434f.jpg" width="100%" alt="Footer banner"/>
+</p>
 
-<!-- Creepypasta blinkies and buttons sourced from the SpaceHey graphics collection:
-https://layouts.spacehey.com/layout?id=84209 --> 
+<!-- Creepypasta blinkies and buttons sourced from:
+https://layouts.spacehey.com/layout?id=84209 -->  
