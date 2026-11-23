@@ -1,4 +1,4 @@
-# ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ Hey, I'm Xori!
+# ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ Hey, I'm Xori! ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 <p align="center">
   <img src="https://i.pinimg.com/1200x/69/38/4d/69384d683fe2fcefdd212bd0b129434f.jpg" width="100%" alt="Header banner"/>
 </p>
@@ -29,17 +29,24 @@ I'm interested in a little bit of everything, from software development and Linu
 
 I like making things that are personal, unusual, and have a little bit of personality.
 
-**A few things about me:**
-- 🎨 i'm into digital art, character design and worldbuilding.
-- 👥 i gots people in my brain (DID)
-- 🎧 i spend all my time listening to music.. literally all the time
-- 🐧 i like linux...idk its interesting
-- ⛏️ i have a never ending two week minecraft phase send help.
-- 💗 i'm poly and i love my partners very very much <3
+**IMPORTANT, PLS READ BEFORE INTERACTING:**
+I struggle a lot with communication and social ques so if i'm being annoying or i'm pushing a boundary, please god call me on my bullshit, i promise you i'm just a fucking idiot- that in mind, i swear a LOT, i also happen to smoke both nic and 🍃 so if any of that makes you uncomfortable maybe dni :) 
+
+PONYTOWN TAGS I USE AND WHAT THEY MEAN FOR ME:
+IWC - upset or overwhelmed, i need time to myself or time alone with a close friend/need to be quiet for a bit
+DNI - not going to interact if ur not on my friends list
+W2I - the best way to talk to me, public chat is too busy for me too make out a lot of the time and i get overwhelmed
+C+H - you can cuddle/hide behind me, i may not always interact, i'm also usually hiding behind others hehe
+
+
+
+DO NOT INTERACT WITH ME IF UR ANY OF THE FOLLOWING: 
+Minor, racist, sexist etc, endo, MAP, zoo, radqueer, proship
+
 
 ---
 
-### ✧ things i like
+### ✧ AAUUGHHH ✧
 
 <p align="center">
   <img src="https://i.ibb.co/Xj1vqPw/button-eyeless-jack-fan-by-frozenstrike-d67safj-375w-2x.png" height="31"/>
