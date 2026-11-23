@@ -1,15 +1,15 @@
 # ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ Hey, I'm Xori!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:52121C&height=180&section=header&text=welcome%20to%20my%20corner!&fontSize=35&fontColor=EAEAEA&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:68351F,100:B66B35&height=180&section=header&text=knock%20knock...&fontSize=38&fontColor=E8D5C1&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <p align="center">
   <i>✧ aguah. ✧</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/creative_chaos-292929?style=flat-square&logo=ghost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/terminal_addict-49151F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/100%25_work_in_progress-292929?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ticci_Toby_enjoyer-B66B35?style=flat-square&labelColor=24201E"/>
+  <img src="https://img.shields.io/badge/Linux_gremlin-68351F?style=flat-square&labelColor=24201E"/>
+  <img src="https://img.shields.io/badge/CRP_brainrot-9B795D?style=flat-square&labelColor=24201E"/>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ I like making things that are personal, unusual, and have a little bit of person
 </p>
 
 <p align="center">
-  <i> current hyperfixations: CRP • old/retro tech and web • linux</i>
+  <i>current hyperfixations: CRP • old/retro tech and web • linux</i>
 </p>
 
 ---
@@ -55,9 +55,7 @@ I like making things that are personal, unusual, and have a little bit of person
   <i>"I like making stuff sometimes!!."</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52121C,100:111111&height=100&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B66B35,50:68351F,100:171717&height=110&section=footer" width="100%"/>
 
 <!-- Creepypasta blinkies and buttons sourced from the SpaceHey graphics collection:
 https://layouts.spacehey.com/layout?id=84209 --> 
